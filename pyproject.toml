@@ -1,0 +1,7 @@
+[project]
+name = "stt-bot"
+version = "0.1.0"
+description = "Багатофункціональний Telegram-бот для перетворення мови в текст та сумаризації."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
